@@ -1,0 +1,20 @@
+set1
+
+Wine, Ionosphere Dataset
+SVM, Decision Tree, Random Forest, Naive Bayes
+Accuracy, Precision, Recall, F1-Score, Confusion Matrix
+
+set2
+Iris, Diabetes
+Gaussian HMM, Multinomial HMM
+Accuracy, Precision, Recall, F1-score
+
+set3
+Wine Dataset
+K-Means, DBSCAN, Dendogram
+Silhouette Coefficient, Calinski-Harabasz Index, Davies-Bouldin Index
+
+set4
+Diabetes, Wisconsin Breast Cancer Dataset
+Artificial Neural Network
+Accuracy, Precision, Recall, F1-score, Confusion Matrix, AUC-ROC
